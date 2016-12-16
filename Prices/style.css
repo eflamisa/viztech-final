@@ -1,0 +1,30 @@
+.bar {
+    background-color: black;
+}
+.axis line, .axis path{
+    stroke:white;
+}
+
+.B6 {
+    fill: #fd6b5a;
+}
+
+.UA {
+    fill: #03afeb;
+}
+
+.SY {
+    fill: orange;
+}
+
+.VX {
+    fill: #06ce98;
+}
+.AS {
+    fill: blue;
+}
+
+}
+.AC {
+    fill: #333;
+}
